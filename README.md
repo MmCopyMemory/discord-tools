@@ -5,7 +5,7 @@ This repo will get many<br>different discord tools!
 ## Current content:
 - Mass reaction adder
 
-### How to use mass reaction adder
+# [🤔]How to use mass reaction adder
 #### 1 Put tokens and proxies in file
 #### 2 Open developer console, add reaction to the message, copy x-super-properties, cookie and referer
 #### 3 Get Message ID and Guild ID
